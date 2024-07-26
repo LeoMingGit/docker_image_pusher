@@ -1,1 +1,1 @@
---platform=linux/arm64/v1 minio/minio
+verdaccio/verdaccio:4.0.0
