@@ -1,1 +1,1 @@
-verdaccio/verdaccio:4.0.0
+nginx
