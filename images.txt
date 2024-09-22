@@ -1,1 +1,1 @@
- eipwork/kuboard:v3.5.2.7
+bitnami/harbor-registry:latest
