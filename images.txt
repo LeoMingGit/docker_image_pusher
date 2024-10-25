@@ -1,1 +1,1 @@
-bitnami/harbor-registry:latest
+kubesphere/etcd:v3.5.13 --platform amd64
