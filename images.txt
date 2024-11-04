@@ -1,1 +1,1 @@
-kubesphere/etcd:v3.5.13 --platform amd64
+rainbond/rainbond:v5.17.3-arm64-dind-allinone
